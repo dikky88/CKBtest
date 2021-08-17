@@ -9,3 +9,7 @@ The Ethereum address that you've used for your Layer 2 account (in text format).
 The Nervos Layer 1 address associated with the private key passed to "unlock" command (in text format). This is "ckb address" in the console output.
 
 ckt1qyq8svpr95y7dlhn0esdmyjv3ea520t5kdnq4smugh
+
+transaction hash
+
+tx 0x1966b4b263151c79616f911779142d18fc9c6ef972a1d1032a62c262037fe1a0 committed!
